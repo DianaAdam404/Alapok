@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Auto/Auto.csproj" />
   <Project Path="Bankszamla/Bankszamla.csproj" />
+  <Project Path="Jatekos/Jatekos.csproj" />
   <Project Path="Valuta/Valuta.csproj" />
 </Solution>
